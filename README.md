@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://github.com/pyreneesGoat/goat-UI/blob/master/images/ui-icon.png">
 </p>
-# Goat-UI
-A Vue.js 2.0 UI Toolkit for Web.
+
+## Goat-UI
+> A Vue.js 2.0 UI Toolkit for Web.
 
 # Quick Start
 waiting waiting waiting
