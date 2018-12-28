@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pyreneesGoat/goat-UI/blob/master/images/ui-icon.png">
+  <img src="https://github.com/pyreneesGoat/goat-UI/blob/master/images/icon.png">
 </p>
 
 ## Goat-UI
