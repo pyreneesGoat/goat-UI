@@ -1,3 +1,7 @@
+https://github.com/pyreneesGoat/goat-UI/blob/master/images/ui-icon.png
+<p align="center">
+  <img src="https://cdn.rawgit.com/ElemeFE/element/dev/element_logo.svg">
+</p>
 # Goat-UI
 A Vue.js 2.0 UI Toolkit for Web.
 
